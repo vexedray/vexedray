@@ -23,8 +23,9 @@ Estou sempre buscando aprender mais e acompanhar as inovações tecnológicas. E
 
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vexedray).
 
+<br>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ1NnhkY2IxNWR0ZXViamV1dXoxYjZ4bDU1YmhsYTI3OGdyZHpweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="300px" alt="GIF de código e tecnologia">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ1NnhkY2IxNWR0ZXViamV1dXoxYjZ4bDU1YmhsYTI3OGdyZHpweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="250px" alt="GIF de código e tecnologia">
 </p>
 
 
