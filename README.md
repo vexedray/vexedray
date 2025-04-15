@@ -25,7 +25,7 @@ Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vexedr
 
 <br>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YwNW80MXNvbHo3bGRkNjBqa3ltbm1mdmdibnM0enF4YjhhN2FwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="250px" alt="GIF de código e tecnologia">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YwNW80MXNvbHo3bGRkNjBqa3ltbm1mdmdibnM0enF4YjhhN2FwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="auto" alt="GIF de código e tecnologia">
 </p>
 
 
