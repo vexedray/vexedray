@@ -24,6 +24,6 @@ Estou sempre buscando aprender mais e acompanhar as inovações tecnológicas. E
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vexedray).
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7>
 </p>
 
