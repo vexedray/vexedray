@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%" alt="GIF de tecnologia">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif">
 </p>
 
 # Rayssa | Desenvolvedora em formação
