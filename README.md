@@ -14,7 +14,7 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 - [angular](https://github.com/vexedray/angular) – aplicações com Angular e Node
 - [html](https://github.com/vexedray/html) – práticas com HTML e estilizações
 - [python](https://github.com/vexedray/python) – exercícios e projetos com Python
-- [banco-de-dados](https://github.com/vexedray/bancoDados) – scripts e modelagens em SQL
+- [bancoDados](https://github.com/vexedray/bancoDados) – scripts e modelagens em SQL
 - [arquiteturaSistemas](https://github.com/vexedray/arquiteturaSistemas) – representações e estudos de arquitetura de software
 
 ## Sobre mim
