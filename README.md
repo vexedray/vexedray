@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%" alt="GIF de tecnologia">
+</p>
+
 # Rayssa | Desenvolvedora em formação
 
 Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia desde cedo. Aqui você encontra alguns dos meus projetos, estudos e experimentos com foco em desenvolvimento web, lógica de programação e banco de dados.
@@ -22,7 +26,5 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 Estou sempre buscando aprender mais e acompanhar as inovações tecnológicas. Este perfil serve como meu portfólio pessoal e espaço de prática.
 
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vexedray).
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0bmtxNHFhNzVpOWpvM2V1ZmMxcTExYWdydzZvaWp1ZWV4bnJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" alt="GIF de tecnologia" style="width: 100%;">
 
 
