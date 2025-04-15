@@ -22,3 +22,8 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 Estou sempre buscando aprender mais e acompanhar as inovações tecnológicas. Este perfil serve como meu portfólio pessoal e espaço de prática.
 
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vexedray).
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9uNDI0ZzVuZzRtMm1ocW9kaHBoNzExZ3c3cDkxMDZ0MjIyamhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" alt="GIF animado">
+</p>
+
