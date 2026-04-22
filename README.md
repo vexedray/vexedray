@@ -9,8 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vexedray)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vexedray)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://construtoracasanovatubarao.com.br/)
 
 </div>
 
@@ -24,7 +22,7 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 - Cursando ADS
 - Aprendendo continuamente e acompanhando as inovações do mercado
 - Construindo o **Inventarium** — sistema de controle de estoque e PDV
-- Portfólio profissional: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
+- Site profissional on-line: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
 
 ---
 
@@ -48,14 +46,22 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
   </td>
   <td align="center" valign="top" width="50%">
 
-**Backend & Banco de Dados**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Banco de Dados & Cloud**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Arquitetura & Padrões**
+
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
   </td>
   </tr>
@@ -84,42 +90,23 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 <div align="center">
 
-[![estudosDevWeb](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosDevWeb&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosDevWeb)
-[![estudosDevMobile](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosDevMobile&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosDevMobile)
-[![estudosAngular](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosAngular&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosAngular)
-[![estudosNode](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosNode&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosNode)
-[![estudosBancoDados](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosBancoDados&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosBancoDados)
-[![estudosEstruturaDados](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosEstruturaDados&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosEstruturaDados)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vexedray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexedray&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vexedray&theme=tokyonight&hide_border=true&locale=pt_BR)
-
+- [estudosAngular](https://github.com/vexedray/estudosAngular) – aplicações com Angular e Node
+- [estudosPython](https://github.com/vexedray/estudosPython) – exercícios e projetos com Python
+- [estudosBancoDados](https://github.com/vexedray/estudosBancoDados) – scripts e modelagens em SQL
+- [estudosHTML](https://github.com/vexedray/estudosHTML) – práticas com HTML, CSS e JavaScript
+- [estudosArquiteturaSistemas](https://github.com/vexedray/estudosArquiteturaSistemas) – padrões MVC, REST e arquitetura em camadas
+- [estudosNode](https://github.com/vexedray/estudosNode) – desenvolvimento backend com Node.js
+- [estudosEstruturaDados](https://github.com/vexedray/estudosEstruturaDados) – estruturas de dados e algoritmos em Java
+  
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YwNW80MXNvbHo3bGRkNjBqa3ltbm1mdmdibnM0enF4YjhhN2FwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="270px" alt="GIF de código e tecnologia"/>
 
 **Obrigada por visitar meu perfil! Fique à vontade para explorar os repositórios.**
 
-![Visitors](https://komarev.com/ghpvc/?username=vexedray&color=a78bfa&style=for-the-badge&label=VISITAS)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
-
 </div>
