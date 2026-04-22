@@ -31,44 +31,133 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" valign="top" width="50%">
+<tr>
 
-**Frontend & Mobile**
+<td width="25%" valign="top" align="center">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend & Mobile
 
-  </td>
-  <td align="center" valign="top" width="50%">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=angular" /><br/>
+Angular
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" /><br/>
+TypeScript
+</td>
+</tr>
 
-**Backend**
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" /><br/>
+JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" /><br/>
+HTML5
+</td>
+</tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Banco de Dados & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Arquitetura & Padrões**
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-  </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" /><br/>
+CSS3
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" /><br/>
+React Native
+</td>
+</tr>
 </table>
 
-</div>
+</td>
 
+<td width="25%" valign="top" align="center">
+
+### Backend
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" /><br/>
+Java
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" /><br/>
+Node.js
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" /><br/>
+Python
+</td>
+<td></td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+### Banco de Dados
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" /><br/>
+MySQL
+</td>
+<td align="center">
+SQL
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+### Cloud & DevOps
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" /><br/>
+AWS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" /><br/>
+Docker
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br/>
+Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" /><br/>
+GitHub
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### Arquitetura & Conceitos
+REST API • MVC • Arquitetura em Camadas • Integração de Sistemas
+
+</div>
 ---
 
 ## Projetos em Destaque
