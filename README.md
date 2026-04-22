@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Rayssa&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20em%20Formação&descAlignY=60&descAlign=50&descSize=20" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Graduanda+em+ADS+%F0%9F%8E%93;Apaixonada+por+tecnologia+%F0%9F%92%BB;Web+%7C+Mobile+%7C+Backend+%7C+Cloud+%E2%98%81%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Graduanda+em+ADS;Apaixonada+por+tecnologia;Web+%7C+Mobile+%7C+Backend+%7C+Cloud;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,19 +16,19 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Graduanda em **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia desde cedo.
 Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvolvimento web, mobile e arquitetura de sistemas**.
 
-- 🎓 Cursando ADS
-- 🌱 Aprendendo continuamente e acompanhando as inovações do mercado
-- 🏗️ Construindo o **Inventarium** — sistema de controle de estoque e PDV
-- 💼 Portfólio profissional: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
+- Cursando ADS
+- Aprendendo continuamente e acompanhando as inovações do mercado
+- Construindo o **Inventarium** — sistema de controle de estoque e PDV
+- Portfólio profissional: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
@@ -62,22 +62,22 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
 | Projeto | Descrição | Stack | Status |
 |:-------:|:---------:|:-----:|:------:|
-| 🏪 **Inventarium** | Sistema completo de controle de estoque e PDV simplificado | Java · MySQL · MVC | 🚧 Em construção |
-| 🏠 [**Construtora Casa Nova**](https://construtoracasanovatubarao.com.br/) | Site institucional profissional | HTML · CSS · JS | ✅ Online |
-| ☁️ [**projetoAWS**](https://github.com/vexedray/projetoAWS) | Desenvolvimento para treinamento AWS | AWS | 📚 Estudo |
-| 📱 [**Controle de Gastos**](https://github.com/vexedray/projetoControleGastosMobile) | App mobile para gestão financeira pessoal | React Native · TS | 📱 Mobile |
+| **Inventarium** | Sistema completo de controle de estoque e PDV simplificado | Java · MySQL · MVC | Em construção |
+| [**Construtora Casa Nova**](https://construtoracasanovatubarao.com.br/) | Site institucional profissional | HTML · CSS · JS | Online |
+| [**projetoAWS**](https://github.com/vexedray/projetoAWS) | Desenvolvimento para treinamento AWS | AWS | Estudo |
+| [**Controle de Gastos**](https://github.com/vexedray/projetoControleGastosMobile) | App mobile para gestão financeira pessoal | React Native · TS | Mobile |
 
 </div>
 
 ---
 
-## 📂 Repositórios de Estudo
+## Repositórios de Estudo
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -113,10 +113,6 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YwNW80MXNvbHo3bGRkNjBqa3ltbm1mdmdibnM0enF4YjhhN2FwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="270px" alt="GIF de código e tecnologia"/>
 
-**✨ Obrigada por visitar meu perfil! Fique à vontade para explorar os repositórios. ✨**
-
-![Visitors](https://komarev.com/ghpvc/?username=vexedray&color=a78bfa&style=for-the-badge&label=VISITAS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
+**Obrigada por visitar meu perfil! Fique à vontade para explorar os repositórios.**
 
 </div>
