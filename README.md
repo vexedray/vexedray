@@ -90,23 +90,6 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vexedray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexedray&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vexedray&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-</div>
-
----
-
 <div align="center">
 
 
