@@ -79,13 +79,14 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 <div align="center">
 
-[![estudosDevWeb](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosDevWeb&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosDevWeb)
-[![estudosDevMobile](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosDevMobile&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosDevMobile)
-[![estudosAngular](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosAngular&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosAngular)
-[![estudosNode](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosNode&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosNode)
-[![estudosBancoDados](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosBancoDados&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosBancoDados)
-[![estudosEstruturaDados](https://github-readme-stats.vercel.app/api/pin/?username=vexedray&repo=estudosEstruturaDados&theme=tokyonight&hide_border=true)](https://github.com/vexedray/estudosEstruturaDados)
-
+- [estudosAngular](https://github.com/vexedray/estudosAngular) – aplicações com Angular e Node
+- [estudosPython](https://github.com/vexedray/estudosPython) – exercícios e projetos com Python
+- [estudosBancoDados](https://github.com/vexedray/estudosBancoDados) – scripts e modelagens em SQL
+- [estudosHTML](https://github.com/vexedray/estudosHTML) – práticas com HTML, CSS e JavaScript
+- [estudosArquiteturaSistemas](https://github.com/vexedray/estudosArquiteturaSistemas) – padrões MVC, REST e arquitetura em camadas
+- [estudosNode](https://github.com/vexedray/estudosNode) – desenvolvimento backend com Node.js
+- [estudosEstruturaDados](https://github.com/vexedray/estudosEstruturaDados) – estruturas de dados e algoritmos em Java
+  
 </div>
 
 ---
