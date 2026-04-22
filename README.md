@@ -9,8 +9,8 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 - Banco de Dados (MySQL, SQL)
 
 ## Projetos
-- [Inventarium] - Um sistema completo de controle de estoque e PDV simplificado (em construção).
-- [Site institucional](https://construtoracasanovatubarao.com.br/)
+- Inventarium - Um sistema completo de controle de estoque e PDV simplificado (em construção).
+- [Site institucional - Construtora Casa Nova](https://construtoracasanovatubarao.com.br/)
 
 ## Repositórios em destaque
 - [estudosDevWeb](https://github.com/vexedray/estudosDevWeb) – desenvolvimento web com Java e arquiteturas empresariais
