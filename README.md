@@ -10,7 +10,7 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 
 ## Projetos
 - Inventarium - Um sistema completo de controle de estoque e PDV simplificado (em construção).
-- Site institucional - Construtora Casa Nova [(https://construtoracasanovatubarao.com.br/)]
+- Site institucional Construtora Casa Nova - https://construtoracasanovatubarao.com.br/
 
 ## Repositórios em destaque
 - [estudosDevWeb](https://github.com/vexedray/estudosDevWeb) – desenvolvimento web com Java e arquiteturas empresariais
