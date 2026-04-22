@@ -5,7 +5,7 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 ## Áreas de interesse
 - Desenvolvimento Web & Mobile (Angular, TypeScript, React Native)
 - Backend (Java, Node.js)
-- Arquitetura de Sistemas (MVC, REST, Camadas)
+- Arquitetura de Sistemas (MVC, REST)
 - Banco de Dados (MySQL, SQL)
 
 ## Projetos
@@ -13,9 +13,11 @@ Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia d
 - Site institucional Construtora Casa Nova - https://construtoracasanovatubarao.com.br/
 
 ## Repositórios em destaque
+- [projetoAWS](https://github.com/vexedray/projetoAWS) – desenvolvimento para treinamento AWS
+- [projetoControleGastosMobile](https://github.com/vexedray/projetoControleGastosMobile) – aplicação mobile para gestão financeira pessoal
 - [estudosDevWeb](https://github.com/vexedray/estudosDevWeb) – desenvolvimento web com Java e arquiteturas empresariais
 - [estudosDevMobile](https://github.com/vexedray/estudosDevMobile) – práticas de desenvolvimento mobile com TypeScript
-- [projetoControleGastosMobile](https://github.com/vexedray/projetoControleGastosMobile) – aplicação mobile para gestão financeira pessoal
+
 
 ## Fundamentos
 - [estudosAngular](https://github.com/vexedray/estudosAngular) – aplicações com Angular e Node
