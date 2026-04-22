@@ -109,8 +109,10 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YwNW80MXNvbHo3bGRkNjBqa3ltbm1mdmdibnM0enF4YjhhN2FwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100%" height="270px" alt="GIF de código e tecnologia"/>
 
 **Obrigada por visitar meu perfil! Fique à vontade para explorar os repositórios.**
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
 </div>
