@@ -9,8 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vexedray)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vexedray)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://construtoracasanovatubarao.com.br/)
 
 </div>
 
@@ -24,7 +22,7 @@ Aqui você encontra meus projetos, estudos e experimentos com foco em **desenvol
 - Cursando ADS
 - Aprendendo continuamente e acompanhando as inovações do mercado
 - Construindo o **Inventarium** — sistema de controle de estoque e PDV
-- Portfólio profissional: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
+- Site profissional on-line: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
 
 ---
 
