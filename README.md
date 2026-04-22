@@ -177,7 +177,7 @@ REST API • MVC • Arquitetura em Camadas • Integração de Sistemas
 
 ## Repositórios de Estudo
 
-<div align="center">
+<div align="left">
 
 - [estudosAngular](https://github.com/vexedray/estudosAngular) – aplicações com Angular e Node
 - [estudosPython](https://github.com/vexedray/estudosPython) – exercícios e projetos com Python
