@@ -9,8 +9,8 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vexedray)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vexedray)
-[![Portfólio](https://img.shields.io/badge/Site_Profissional-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://construtoracasanovatubarao.com.br/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996108948)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssab0408@gmail.com)
 
 </div>
 
@@ -56,16 +56,59 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 
 ## Projetos em Destaque
 
-<div align="center">
+### Spendly: Controle de Gastos Pessoais
 
-| Projeto | Descrição | Stack | Status |
-|:-------:|:---------:|:-----:|:------:|
-| **Inventarium** | Sistema completo de controle de estoque e PDV simplificado | Java · MySQL · MVC | Finalizado |
-| [**Construtora Casa Nova**](https://construtoracasanovatubarao.com.br/) | Site institucional profissional | HTML · CSS · JS | Online |
-| [**Controle de Gastos**](https://github.com/vexedray/projetoControleGastosMobile) | App mobile para gestão financeira pessoal | React Native · TS | Mobile |
-| [**projetoAWS**](https://github.com/vexedray/projetoAWS) | Desenvolvimento para treinamento AWS | AWS | Estudo |
+App mobile completo para registrar, categorizar e acompanhar gastos do dia a dia, com API própria e autenticação.
 
-</div>
+- Cadastro, edição, listagem e exclusão de despesas
+- Categorias personalizáveis
+- Gráficos de gastos por categoria, com cores personalizáveis
+- Cadastro e login de usuários com JWT
+- API REST documentada com Swagger/OpenAPI, com testes de controllers e services
+
+![Java](https://img.shields.io/badge/Java_23-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[Repositório](https://github.com/vexedray/projetoControleGastosMobile) · [Apresentação](https://www.canva.com/design/DAG6CLiDk34/LX-ujqwvXpMIy2K67DQPMA/edit)
+
+<!-- 📸 PRINTS DO SPENDLY: exemplo -> <img src="assets/spendly-1.png" width="23%" /> <img src="assets/spendly-2.png" width="23%" /> -->
+
+---
+
+### Inventarium
+
+Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
+
+<!-- 📸 PRINTS DO INVENTARIUM: exemplo -> <img src="assets/inventarium-1.png" width="48%" /> <img src="assets/inventarium-2.png" width="48%" /> -->
+
+---
+
+### Construtora Casa Nova
+
+Site institucional profissional, publicado e em uso.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
+
+[🌐 Ver site](https://construtoracasanovatubarao.com.br/)
+
+<!-- 📸 PRINT DO SITE: exemplo -> <img src="assets/casanova.png" width="80%" /> -->
+
+---
+
+### Cadastro de Usuário - Hospedado na AWS
+[projetoAWS](https://github.com/vexedray/projetoAWS)
 
 ---
 
@@ -78,6 +121,19 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 - [estudosArquiteturaSistemas](https://github.com/vexedray/estudosArquiteturaSistemas): padrões MVC, REST e arquitetura em camadas
 - [estudosNode](https://github.com/vexedray/estudosNode): desenvolvimento backend com Node.js
 - [estudosEstruturaDados](https://github.com/vexedray/estudosEstruturaDados): estruturas de dados e algoritmos em Java
+
+---
+
+## Contato
+
+Aberta a conversas sobre projetos, parcerias e oportunidades.
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996108948)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssab0408@gmail.com)
+
+</div>
 
 ---
 
