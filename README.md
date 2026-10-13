@@ -54,6 +54,19 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 
 ---
 
+### Inventarium
+
+Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
+
+[Apresentação](https://easyplancliente.my.canva.site/nventarium-pptx)
+
+---
+
 ## Projetos em Destaque
 
 ### Spendly: Controle de Gastos Pessoais
@@ -73,22 +86,7 @@ App mobile completo para registrar, categorizar e acompanhar gastos do dia a dia
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[Repositório](https://github.com/vexedray/projetoControleGastosMobile) · [Apresentação](https://www.canva.com/design/DAG6CLiDk34/LX-ujqwvXpMIy2K67DQPMA/edit)
-
-<!-- 📸 PRINTS DO SPENDLY: exemplo -> <img src="assets/spendly-1.png" width="23%" /> <img src="assets/spendly-2.png" width="23%" /> -->
-
----
-
-### Inventarium
-
-Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
-
-<!-- 📸 PRINTS DO INVENTARIUM: exemplo -> <img src="assets/inventarium-1.png" width="48%" /> <img src="assets/inventarium-2.png" width="48%" /> -->
+[Repositório](https://github.com/vexedray/projetoControleGastosMobile) · [Apresentação](https://easyplancliente.my.canva.site/spendly)
 
 ---
 
@@ -103,11 +101,11 @@ Site institucional profissional, publicado e em uso.
 
 [🌐 Ver site](https://construtoracasanovatubarao.com.br/)
 
-<!-- 📸 PRINT DO SITE: exemplo -> <img src="assets/casanova.png" width="80%" /> -->
 
 ---
 
 ### Cadastro de Usuário - Hospedado na AWS
+
 [projetoAWS](https://github.com/vexedray/projetoAWS)
 
 ---
