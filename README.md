@@ -63,7 +63,7 @@ Sistema completo de controle de estoque com PDV simplificado, desenvolvido segui
 ![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
 
-[Apresentação](https://easyplancliente.my.canva.site/nventarium-pptx)
+[Apresentação](https://easyplancliente.my.canva.site/inventarium)
 
 ---
 
