@@ -76,7 +76,7 @@ Site profissional da nutricionista Kryshina Borges, publicado e em uso. Constru�
 
 ---
 
-### Construtora Casa Nova
+### Construtora Casa Nova: Site profissional empresarial
 
 Site institucional profissional da Construtora Casa Nova, publicado e em uso. Construído com HTML, CSS e JavaScript.
 
@@ -117,7 +117,13 @@ App mobile completo para registrar, categorizar e acompanhar gastos do dia a dia
 
 ### Inventarium
 
-Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
+Sistema completo de controle de estoque com PDV simplificado, desenvolvido em Java com banco de dados MySQL e seguindo o padrão MVC. Projeto finalizado, pensado para pequenos comércios que precisam controlar produtos e vendas em um só lugar.
+
+- Cadastro, edição, consulta e exclusão de produtos
+- Controle de estoque com atualização automática a cada venda
+- PDV simplificado para registrar vendas de forma rápida
+- Persistência de dados em MySQL com modelagem relacional
+- Código separado em camadas (Model, View e Controller), facilitando manutenção e evolução
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
