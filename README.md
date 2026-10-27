@@ -24,6 +24,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 - Foco atual: **React, Next.js e NestJS**, com arquitetura modular
 - Sempre estudando e acompanhando o que muda no mercado
 - Projeto no ar: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
+- Projeto no ar: [nutrikryshinaborges.com.br](https://nutrikryshinaborges.com.br/)
 
 ---
 
@@ -33,7 +34,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 
 | Área | Tecnologias |
 |:----:|:-----------:|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,sass" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,python" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=react,ts" /> |
 | **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mysql" /> |
@@ -54,20 +55,44 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 
 ---
 
-### Inventarium
+## Projetos em Destaque
 
-Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
+### Kryshina Borges: Site Profissional de Nutrição
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
+Site profissional da nutricionista Kryshina Borges, publicado e em uso. Construído com React e Vite, com tipagem em TypeScript e estilos organizados em SCSS.
 
-[Apresentação](https://easyplancliente.my.canva.site/inventarium)
+- Interface moderna, responsiva e pensada para conversão de pacientes
+- Componentes React reutilizáveis e estrutura de pastas modular
+- Estilos em SCSS com variáveis, mixins e parciais para manter o design consistente
+- Build rápido com Vite e deploy em produção com domínio próprio
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
+
+[🌐 Ver site](https://nutrikryshinaborges.com.br/)
 
 ---
 
-## Projetos em Destaque
+### Construtora Casa Nova
+
+Site institucional profissional da Construtora Casa Nova, publicado e em uso. Construído com HTML, CSS e JavaScript.
+
+- Interface moderna, responsiva e pensada para geração de contatos e orçamentos
+- Código organizado e estrutura de pastas clara
+- Estilos em CSS organizados para manter o design consistente
+- Deploy em produção com domínio próprio
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
+
+[🌐 Ver site](https://construtoracasanovatubarao.com.br/)
+
+---
 
 ### Spendly: Controle de Gastos Pessoais
 
@@ -90,23 +115,16 @@ App mobile completo para registrar, categorizar e acompanhar gastos do dia a dia
 
 ---
 
-### Construtora Casa Nova
+### Inventarium
 
-Site institucional profissional, publicado e em uso.
+Sistema completo de controle de estoque com PDV simplificado, desenvolvido seguindo o padrão MVC.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5B21B6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Finalizado-22C55E?style=flat-square)
 
-[🌐 Ver site](https://construtoracasanovatubarao.com.br/)
-
-
----
-
-### Cadastro de Usuário - Hospedado na AWS
-
-[projetoAWS](https://github.com/vexedray/projetoAWS)
+[Apresentação](https://easyplancliente.my.canva.site/inventarium)
 
 ---
 
