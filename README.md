@@ -25,6 +25,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e apaixonada por tecno
 - Sempre estudando e acompanhando o que muda no mercado
 - Projeto no ar: [construtoracasanovatubarao.com.br](https://construtoracasanovatubarao.com.br/)
 - Projeto no ar: [nutrikryshinaborges.com.br](https://nutrikryshinaborges.com.br/)
+- Projeto no ar: [asimovcereal.com.br](https://www.asimovcereal.com.br/)
 
 ---
 
@@ -91,6 +92,25 @@ Site institucional profissional da Construtora Casa Nova, publicado e em uso. Co
 ![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
 
 [🌐 Ver site](https://construtoracasanovatubarao.com.br/)
+
+---
+
+### Cereais de Asimov: Site profissional portifólio pessoal
+
+Site de portifólio pessoal profissional do escritor Erick Ávila, publicado e em uso. Construído com React, SCSS e Typescript.
+
+- Interface moderna, responsiva e pensada para vitrine pessoal
+- Componentes React reutilizáveis e estrutura de pastas modular
+- Estilos em SCSS com variáveis, mixins e parciais para manter o design consistente
+- Build rápido com Vite e deploy em produção com domínio próprio
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Online-22C55E?style=flat-square)
+
+[🌐 Ver site]([https://www.asimovcereal.com.br/](https://www.asimovcereal.com.br/))
 
 ---
 
